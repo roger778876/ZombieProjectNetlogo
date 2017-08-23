@@ -22,12 +22,19 @@
 
 ## Shop prices:
 Pistol - 30
+
 SMG - 60
+
 Heavy MG - 100
+
 Ammo - (for Pistol / SMG only ) 5 $ for 10
+
 Heavyammo - (for HMG only ) $20 for 50
+
 Mines - 20
+
 Medkit - 25
+
 10 Bricks - 15
 
 
