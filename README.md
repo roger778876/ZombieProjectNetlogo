@@ -1,4 +1,4 @@
-# ZombieProjectNetlogo
+# Zombie Final Netlogo Project - Intro CS 1 w/ Mr. Konstantinovich
 
 # Features and Directions and Shop Prices
 
