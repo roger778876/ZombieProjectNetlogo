@@ -1,4 +1,6 @@
 # Zombie Final Netlogo Project - Intro CS 1 w/ Mr. Konstantinovich
+by Cesar Mu & Datian Zhang
+
 
 # Directions, Features, and Shop Prices
 
